@@ -51,9 +51,11 @@ Resultados y Gráficas
 ------------------------
 
 - Regresión Lineal.
-- Red Neuronal - Error vs Epochs.
+  ![Gráfico Lineal](Graficos/Grafico_Lineal.png)
+- Red Neuronal - Valores reales vs predichos.
+  ![Valores_reales_vs_predichos](Graficos/Valores_reales_vs_predichos.png)
 - Predicción de valores.
-
+  ![Predicion en 3 meses](Graficos/Predicion.png)
 Lógica de Programación Implementada
 --------------------------------------
 
