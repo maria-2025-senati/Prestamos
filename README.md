@@ -26,11 +26,11 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 
 ## Explicación de los Modelos
-📌 Regresión Lineal Simple
-Se utilizó la variable promTrxDig3Um para predecir promSaldoPrest3Um.
-Se entrenó el modelo con train_test_split y se graficaron los valores reales vs predichos.
+📌 Regresión Lineal Simple:
+- Se utilizó la variable promTrxDig3Um para predecir promSaldoPrest3Um.
+- Se entrenó el modelo con train_test_split y se graficaron los valores reales vs predichos.
 
-📌 Red Neuronal con Keras
+📌 Red Neuronal con Keras:
 Variables usadas:
 
 promTrxDig3Um
