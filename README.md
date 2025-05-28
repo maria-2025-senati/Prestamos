@@ -26,13 +26,13 @@ from tensorflow.keras.layers import Dense
 ## Explicación de los Modelos
 -----------------------------
 
-### 📌 Regresión Lineal Simple
+### Regresión Lineal Simple
 
 Se utilizó la variable `promTrxDig3Um` para predecir `promSaldoPrest3Um`.
 
 Se entrenó el modelo con `train_test_split` y se graficaron los valores reales vs predichos.
 
-### 📌 Red Neuronal con Keras
+### Red Neuronal con Keras
 
 Variables usadas:
 
@@ -47,21 +47,21 @@ Modelo:
 - Pérdida: `mse`, métrica: `mae`.
 - Épocas: 100.
 
-📉 Resultados y Gráficas
+Resultados y Gráficas
 ------------------------
 
 - Regresión Lineal.
 - Red Neuronal - Error vs Epochs.
 - Predicción de valores.
 
-🧠 Lógica de Programación Implementada
+Lógica de Programación Implementada
 --------------------------------------
 
 Se clasificaron los clientes en niveles de transacciones (bajo, medio, alto).
 
 Se utilizó un diccionario, listas, bucle `for` y condicionales para contar y visualizar la distribución.
 
-📝 Conclusiones Personales
+Conclusiones Personales
 --------------------------
 
 - Existe una relación directa entre la actividad digital de los clientes y su promedio de saldo en préstamos.
