@@ -56,6 +56,7 @@ Resultados y Gráficas
   ![Valores_reales_vs_predichos](Graficos/Valores_reales_vs_predichos.png)
 - Predicción de valores.
   ![Predicion en 3 meses](Graficos/Predicion.png)
+
 Lógica de Programación Implementada
 --------------------------------------
 
