@@ -70,3 +70,4 @@ Conclusiones Personales
 - Existe una relación directa entre la actividad digital de los clientes y su promedio de saldo en préstamos.
 - La red neuronal mejora la capacidad predictiva al considerar múltiples variables.
 - Aprendí a aplicar técnicas de ML y Deep Learning en un caso real con datos de clientes.
+- Apesar de que los datos no fueron los mas acertados me ha faltado mejorarlo un poco mas.
