@@ -45,7 +45,7 @@ Modelo:
 - 1 capa oculta con activación `relu`.
 - Capa de salida con activación `linear`.
 - Pérdida: `mse`, métrica: `mae`.
-- Épocas: 100.
+- Épocas: 50.
 
 Resultados y Gráficas
 ------------------------
@@ -67,4 +67,3 @@ Conclusiones Personales
 - Existe una relación directa entre la actividad digital de los clientes y su promedio de saldo en préstamos.
 - La red neuronal mejora la capacidad predictiva al considerar múltiples variables.
 - Aprendí a aplicar técnicas de ML y Deep Learning en un caso real con datos de clientes.
-- GitHub es una herramienta clave para documentar y compartir proyectos de análisis de datos.
